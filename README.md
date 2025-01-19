@@ -6,8 +6,7 @@
 <br><br><br><br>
 
 # Demo 정보
-**URL**: [https://devjh-survey.web.app/](https://devjh-survey.web.app/) <br>
-**ID/PW**: admin@devjhsurvey.com / devjh777
+
 <br><br><br><br>
 
 # ScreenShot
